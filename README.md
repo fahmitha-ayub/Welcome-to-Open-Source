@@ -65,7 +65,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/fahmitha-ayub">
                     <img src="https://avatars.githubusercontent.com/u/109947830?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Fahmitha</b></sub>
+                    <sub><b>Fahmitha P A</b></sub>
                 </a> 
             </td>
             <td align="center">
